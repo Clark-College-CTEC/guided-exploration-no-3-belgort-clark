@@ -1,8 +1,7 @@
 # Hello World
 
-```python
-def main():
-    print('YOUR CODE GOES HERE')
+```r
+plot(v,type,col,xlab,ylab)
 ```
 
 Replace print with your code
