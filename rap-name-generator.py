@@ -1,2 +1,8 @@
 # Guided Exploration No. 3
-# YOUR NAME
+# Bruce Elgort
+
+def main():
+    print('Hello world')
+
+
+main()
